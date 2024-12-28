@@ -1,0 +1,86 @@
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.exe
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.deps.json
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.runtimeconfig.json
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.dll
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.pdb
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.MG.resources
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.Properties.Resources.resources
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.GenerateResource.cache
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfoInputs.cache
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfo.cs
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.dll
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\refint\MemoryGame.dll
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.pdb
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.genruntimeconfig.cache
+D:\DAM 2CristinaRamos\0-Interfaces\Ejercicios\MemoryGame\obj\Debug\net6.0-windows\ref\MemoryGame.dll
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.exe
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.deps.json
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.MG.resources
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.Properties.Resources.resources
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\refint\MemoryGame.dll
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\ref\MemoryGame.dll
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.exe
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.deps.json
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.MG.resources
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.Properties.Resources.resources
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\refint\MemoryGame.dll
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\javi\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\ref\MemoryGame.dll
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.exe
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.deps.json
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.MG.resources
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.Properties.Resources.resources
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.GenerateResource.cache
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\refint\MemoryGame.dll
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\javir\Documents\GitHub\2dam\C#\MemoryGame\obj\Debug\net6.0-windows\ref\MemoryGame.dll
+C:\Users\javir\Documents\Github\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.exe
+C:\Users\javir\Documents\Github\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.deps.json
+C:\Users\javir\Documents\Github\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\javir\Documents\Github\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\javir\Documents\Github\MemoryGame\bin\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.MG.resources
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.Properties.Resources.resources
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.GenerateResource.cache
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.dll
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\refint\MemoryGame.dll
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.pdb
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\javir\Documents\Github\MemoryGame\obj\Debug\net6.0-windows\ref\MemoryGame.dll
